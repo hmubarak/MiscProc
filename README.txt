@@ -1,3 +1,7 @@
+************
+This is the readme file under master
+&&&&&&&&&&&&&&&&
+
 cd /media/sf_D_DRIVE/Python/MiscProc
 git init
 git status
